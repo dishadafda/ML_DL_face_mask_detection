@@ -1,0 +1,11 @@
+# Ignore datasets
+demo_images/
+annotations/
+
+# Ignore heavy model weights
+*.h5
+*.pth
+
+# Ignore Python/Jupyter cache files
+__pycache__/
+.ipynb_checkpoints/
